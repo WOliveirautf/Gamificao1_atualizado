@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamificação_atualizado1", "Gamificação_atualizado1.csproj", "{6011ABA4-2831-44B3-B2E9-29CE7F961981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6011ABA4-2831-44B3-B2E9-29CE7F961981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6011ABA4-2831-44B3-B2E9-29CE7F961981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6011ABA4-2831-44B3-B2E9-29CE7F961981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6011ABA4-2831-44B3-B2E9-29CE7F961981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14041D34-FE1D-4992-BE2E-5F24E20ECB5A}
+	EndGlobalSection
+EndGlobal

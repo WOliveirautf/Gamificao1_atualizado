@@ -1,0 +1,15 @@
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\bin\Debug\net7.0\Gamificação_atualizado1.exe
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\bin\Debug\net7.0\Gamificação_atualizado1.deps.json
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\bin\Debug\net7.0\Gamificação_atualizado1.runtimeconfig.json
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\bin\Debug\net7.0\Gamificação_atualizado1.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\bin\Debug\net7.0\Gamificação_atualizado1.pdb
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\obj\Debug\net7.0\Gamificação_atualizado1.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\obj\Debug\net7.0\Gamificação_atualizado1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\obj\Debug\net7.0\Gamificação_atualizado1.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\obj\Debug\net7.0\Gamificação_atualizado1.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\obj\Debug\net7.0\Gamificação_atualizado1.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\obj\Debug\net7.0\Gamificação_atualizado1.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\obj\Debug\net7.0\refint\Gamificação_atualizado1.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\obj\Debug\net7.0\Gamificação_atualizado1.pdb
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\obj\Debug\net7.0\Gamificação_atualizado1.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Documentos\POO_Material\Gamificação_atualizado1\obj\Debug\net7.0\ref\Gamificação_atualizado1.dll
